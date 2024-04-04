@@ -35,7 +35,7 @@ const ServicePage = () => {
           What we offer
         </h1>
       </div>
-      <div className="mx-auto max-w-7xl w-full px-5 sm:px-8 md:px-14 lg:px-5 space-y-10 md:space-y-12">
+      <div className="mx-auto w-full px-5 sm:px-8 md:px-14 lg:px-5 space-y-10 md:space-y-12">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
           {servicesData.map((service, index) => (
             <ServiceCard key={index} {...service} />

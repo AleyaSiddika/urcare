@@ -3,7 +3,7 @@ import React from "react";
 const ServiceCard = ({ title, description, image }) => {
   return (
     <div className="">
-      <div className="flex justify-between items-center rounded-3xl border-2 p-8 lg:py-12 hover:cursor-pointer">
+      <div className="flex justify-between items-center rounded-3xl border-2 p-8 hover:cursor-pointer">
         <img src={image} className="h-14 w-auto" alt="x" />
 
         <h2 className="text-5xl font-thin text-center">{title}</h2>
