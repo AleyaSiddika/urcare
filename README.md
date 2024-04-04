@@ -5,13 +5,13 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AleyaSiddika/shifting-app.git
+   git clone https://github.com/asiddika23/urcare.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd shifting-app
+   cd urcare
    ```
 
 3. Install dependencies:
